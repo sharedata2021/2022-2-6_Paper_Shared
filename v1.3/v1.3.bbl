@@ -1,0 +1,270 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{2018Nerve}
+V.~Vashishtha, D.~Aju, Nerve segmentation in ultrasound images, in: IEEE
+  Conference on Innovations in Power and Advanced Computing Technologies, 2018,
+  pp. 1--5.
+
+\bibitem{xue2021global}
+C.~Xue, L.~Zhu, H.~Fu, X.~Hu, X.~Li, H.~Zhang, P.-A. Heng, Global guidance
+  network for breast lesion segmentation in ultrasound images, Medical Image
+  Analysis 70 (2021) 1--12.
+
+\bibitem{Bozidear2002Automated}
+Bozidear, Potocnik, D.~Zhauzla, Automated analysis of a sequence of ovarian
+  ultrasound images. part i: segmentation of single 2d images, Image \& Vision
+  Computing 20~(3) (2002) 217--225.
+
+\bibitem{HF2015Peripheral}
+H.~García, J.~J. Giraldo, M.~Álvarez, Álvaro A.~Orozco, D.~Salazar,
+  Peripheral nerve segmentation using speckle removal and bayesian shape
+  models, in: Iberian Conference on Pattern Recognition and Image Analysis,
+  2015, pp. 387--394.
+
+\bibitem{ludeep2021}
+H.~Lu, M.~Zhang, X.~Xu, Y.~Li, H.~T. Shen, Deep fuzzy hashing network for
+  efficient image retrieval, IEEE Trsanctions on Fuzzy Systems 29~(1) (2021)
+  166--176.
+
+\bibitem{lubrain2018}
+H.~Lu, Y.~Li, M.~Chen, H.~Kim, S.~Serikawa, Brain intelligence: go beyond
+  artificial intelligence, Mobile Networks and Applications 22~(3) (2018)
+  368--378.
+
+\bibitem{2019Deep}
+N.~Abraham, K.~Illanko, N.~Khan, D.~Androutsos, Deep learning for semantic
+  segmentation of brachial plexus nervesin ultrasound images using u-net and
+  m-net, in: IEEE International Conference on Imaging, Signal Processing and
+  Communication, 2019, pp. 85--89.
+
+\bibitem{2020Low}
+S.~Vaze, W.~Xie, A.~Namburete, Low-memory cnns enabling real-time ultrasound
+  segmentation towards mobile deployment, IEEE Journal of Biomedical and Health
+  Informatics 24~(4) (2020) 1059--1069.
+
+\bibitem{yo2021wide}
+N.~Yoshiki, L.~Huimin, L.~Yujie, K.~Tohru, Widesegnext: Semantic image
+  segmentation using wide residual network and next dilated unit, IEEE Sensors
+  Journal 21~(10) (2021) 677--693.
+
+\bibitem{sun2020image}
+S.~Jiaxing, L.~Yujie, C.~Jintong, L.~Huimin, S.~Seiichi, Image segmentation
+  with language referring expression and comprehension, IEEE Sensors Journal
+  (2020) 1--8.
+
+\bibitem{2015U}
+O.~Ronneberger, P.~Fischer, T.~Brox, U-net: Convolutional networks for
+  biomedical image segmentation, in: International Conference on Medical Image
+  Computing and Computer-assisted Intervention, 2015, pp. 234--241.
+
+\bibitem{2019Ultrasound}
+R.~Wang, H.~Shen, M.~Zhou, Ultrasound nerve segmentation of brachial plexus
+  based on optimized resu-net, in: IEEE International Conference on Imaging
+  Systems and Techniques, 2019, pp. 1--6.
+
+\bibitem{2018Joint}
+H.~Fu, J.~Cheng, Y.~Xu, D.~Wong, J.~Liu, X.~Cao, Joint optic disc and cup
+  segmentation based on multi-label deep network and polar transformation, IEEE
+  Transactions on Medical Imaging 37~(7) (2018) 1597--1605.
+
+\bibitem{2020UNet}
+Z.~Zhou, M.~Siddiquee, N.~Tajbakhsh, J.~Liang, Unet++: Redesigning skip
+  connections to exploit multiscale features in image segmentation, IEEE
+  Transactions on Medical Imaging 39~(6) (2020) 1856--1867.
+
+\bibitem{chen2021transunet}
+J.~Chen, Y.~Lu, Q.~Yu, X.~Luo, E.~Adeli, Y.~Wang, L.~Lu, A.~L. Yuille, Y.~Zhou,
+  Transunet: Transformers make strong encoders for medical image segmentation,
+  arXiv preprint arXiv:2102.04306,2020.
+
+\bibitem{vaswani2017attention}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  {\L}.~Kaiser, I.~Polosukhin, Attention is all you need, in: Advances in
+  Neural Information Processing Systems, 2017, pp. 5998--6008.
+
+\bibitem{aneja2019real}
+D.~Aneja, W.~Li, Real-time lip sync for live 2d animation, arXiv preprint
+  arXiv:1910.08685.
+
+\bibitem{2019EfficientNet}
+M.~Tan, Q.~Le, Efficientnet: Rethinking model scaling for convolutional neural
+  networks, in: International Conference on Machine Learning, 2019, pp.
+  6105--6114.
+
+\bibitem{Kaggle}
+Kaggle competitions, ultrasound nerve segmentation[Online]. Available:
+  https://www.kaggle.com/c/ultrasound-nerve-segmentation.
+
+\bibitem{2019Dataset}
+W.~Al-Dhabyani, M.~Gomaa, H.~Khaled, A.~Fahmy, Dataset of breast ultrasound
+  images, Data in Brief 28 (2019) 1--5, [Online]. Available:
+  https://scholar.cu.edu.eg/?q=afahmy/pages/dataset.
+
+\bibitem{2018Automated}
+D.~Van, D.~B. Dagmar, K.~De, G.~B. Van, R.~Carlos, Automated measurement of
+  fetal head circumference using 2d ultrasound images, PLoS ONE 13~(8) (2018)
+  1--20, [Online]. Available: https://hc18.grand-challenge.org/.
+
+\bibitem{2020fine-tuning}
+M.~Amiri, R.~Brooks, H.~Rivaz, Fine-tuning u-net for ultrasound image
+  segmentation: Different layers, different outcomes, IEEE Transactions on
+  Ultrasonics, Ferroelectrics, and Frequency Control 67~(12) (2020) 2510--2518.
+
+\bibitem{2019Nas-unet}
+Y.~Weng, T.~Zhou, Y.~Li, X.~Qiu, Nas-unet: Neural architecture search for
+  medical image segmentation, IEEE Access 7 (2019) 44247--44257.
+
+\bibitem{2020breastmass}
+M.~Byra, P.~Jarosik, A.~Szubert, M.~Galperin, H.~Ojeda-Fournier, L.~Olson,
+  M.~O’Boyle, C.~Comstock, M.~Andre, Breast mass segmentation in ultrasound
+  with selective kernel u-net convolutional neural network, Biomedical Signal
+  Processing and Control 61 (2020) 102027.
+
+\bibitem{wu2019cascaded}
+Z.~Wu, J.~Hai, L.~Zhang, J.~Chen, G.~Cheng, B.~Yan, Cascaded fully
+  convolutional densenet for automatic kidney segmentation in ultrasound
+  images, in: IEEE International Conference on Artificial Intelligence and Big
+  Data, 2019, pp. 384--388.
+
+\bibitem{wu2017cascaded}
+L.~Wu, Y.~Xin, S.~Li, T.~Wang, P.-A. Heng, D.~Ni, Cascaded fully convolutional
+  networks for automatic prenatal ultrasound image segmentation, in: IEEE
+  International Symposium on Biomedical Imaging, 2017, pp. 663--666.
+
+\bibitem{li2019cr}
+H.~Li, J.~Fang, S.~Liu, X.~Liang, X.~Yang, Z.~Mai, M.~T. Van, T.~Wang, Z.~Chen,
+  D.~Ni, Cr-unet: A composite network for ovary and follicle segmentation in
+  ultrasound images, IEEE Journal of Biomedical and Health Informatics 24~(4)
+  (2020) 974--983.
+
+\bibitem{hochreiter1997long}
+S.~Hochreiter, J.~Schmidhuber, Long short-term memory, Neural Computation 9~(8)
+  (1997) 1735--1780.
+
+\bibitem{yang2018towards}
+X.~Yang, L.~Yu, S.~Li, H.~Wen, D.~Luo, C.~Bian, J.~Qin, D.~Ni, P.-A. Heng,
+  Towards automated semantic segmentation in prenatal volumetric ultrasound,
+  IEEE Transactions on Medical Imaging 38~(1) (2019) 180--193.
+
+\bibitem{horng2020deepnerve}
+M.-H. Horng, C.-W. Yang, Y.-N. Sun, T.-H. Yang, Deepnerve: A new convolutional
+  neural network for the localization and segmentation of the median nerve in
+  ultrasound image sequences, Ultrasound in Medicine \& Biology 46~(9) (2020)
+  2439--2452.
+
+\bibitem{wen2016learning}
+W.~Wen, C.~P. Wu, Y.~D. Wang, Y.~R. Chen, H.~Li, Learning structured sparsity
+  in deep neural networks, in: Advances in neural information processing
+  systems, 2016, pp. 2074--2082.
+
+\bibitem{li2018constrained}
+C.~Li, C.~J. Richard, Constrained optimization based low-rank approximation of
+  deep neural networks, in: European Conference on Computer Vision, 2018, pp.
+  732--747.
+
+\bibitem{wu2016quantized}
+J.~Wu, C.~Leng, Y.~Wang, Q.~Hu, J.~Cheng, Quantized convolutional neural
+  networks for mobile devices, in: IEEE Conference on Computer Vision and
+  Pattern Recognition, 2016, pp. 4820--4828.
+
+\bibitem{nan2019deep}
+K.~Nan, S.~Liu, J.~Du, H.~Liu, Deep model compression for mobile platforms: A
+  survey, Tsinghua Science and Technology 24~(6) (2019) 677--693.
+
+\bibitem{liu2019structured}
+Y.~Liu, K.~Chen, C.~Liu, Z.~Qin, J.~Wang, Structured knowledge distillation for
+  semantic segmentation, in: IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition, 2019, pp. 2604--2613.
+
+\bibitem{qin2021eff}
+Q.~Dian, B.~Jia-Jun, L.~Zhe, S.~Xin, Z.~Sheng, J.-J. Gu, W.~Zhi-Hua, W.~Lei,
+  D.~Hui-Fen, Efficient medical image segmentation based on knowledge
+  distillation, IEEE Transactions on Medical Imaging 40~(12) (2021)
+  3820--160761.
+
+\bibitem{ho2020utilize}
+T.~K.~K. Ho, J.~Gwak, Utilizing knowledge distillation in deep learning for
+  classification of chest x-ray abnormalities, IEEE Access 8 (2020)
+  160749--160761.
+
+\bibitem{wang2019lednet}
+Y.~Wang, Q.~Zhou, J.~Liu, J.~Xiong, G.~Gao, X.~Wu, L.~J. Latecki, Lednet: A
+  lightweight encoder-decoder network for real-time semantic segmentation, in:
+  International Conference on Image Processing, IEEE, 2019, pp. 1860--1864.
+
+\bibitem{zhou2020aglnet}
+Q.~Zhou, Y.~Wang, Y.~Fan, X.~Wu, S.~Zhang, B.~Kang, L.~J. Latecki, Aglnet:
+  Towards real-time semantic segmentation of self-driving images via
+  attention-guided lightweight network, Applied Soft Computing 96 (2020)
+  106682.
+
+\bibitem{jha2021real}
+D.~Jha, S.~Ali, N.~K. Tomar, H.~D. Johansen, D.~Johansen, J.~Rittscher, M.~A.
+  Riegler, P.~Halvorsen, Real-time polyp detection, localization and
+  segmentation in colonoscopy using deep learning, IEEE Access 9 (2021)
+  40496--40510.
+
+\bibitem{woo2018cbam}
+S.~Woo, J.~Park, J.-Y. Lee, I.~S. Kweon, Cbam: Convolutional block attention
+  module, in: European Conference on Computer Vision, 2018, pp. 3--19.
+
+\bibitem{2017Squeeze}
+H.~Jie, S.~Li, S.~Gang, S.~Albanie, Squeeze-and-excitation networks, IEEE
+  Transactions on Pattern Analysis and Machine Intelligence 42~(8) (2020)
+  2011--2023.
+
+\bibitem{2018non}
+X.~Wang, R.~Girshick, A.~Gupta, K.~He, Non-local neural networks, in: Computer
+  Vision and Pattern Recognition, 2018, pp. 7794--7803.
+
+\bibitem{li2019attentionnet}
+H.~Li, J.-Z. Cheng, Y.-H. Chou, J.~Qin, S.~Huang, B.~Lei, Attentionnet:
+  Learning where to focus via attention mechanism for anatomical segmentation
+  of whole breast ultrasound images, in: IEEE International Symposium on
+  Biomedical Imaging, 2019, pp. 1078--1081.
+
+\bibitem{ding2019automatic}
+J.~Ding, Z.~Huang, M.~Shi, C.~Ning, Automatic thyroid ultrasound image
+  segmentation based on u-shaped network, in: IEEE International Congress on
+  Image and Signal Processing, 2019, pp. 1--5.
+
+\bibitem{wang2019deep}
+Y.~Wang, H.~Dou, X.~Hu, L.~Zhu, X.~Yang, M.~Xu, J.~Qin, P.-A. Heng, T.~Wang,
+  D.~Ni, Deep attentive features for prostate segmentation in 3d transrectal
+  ultrasound, IEEE Transactions on Medical Imaging 38~(12) (2019) 2768--2778.
+
+\bibitem{2021global}
+C.~Xue, L.~Zhu, H.~Fu, X.~Hu, X.~Li, H.~Zhang, P.-A. Heng, Global guidance
+  network for breast lesion segmentation in ultrasound images, Medical Image
+  Analysis 70 (2021) 101989.
+
+\bibitem{2021swin}
+H.~Cao, Y.~Wang, J.~Chen, D.~Jiang, X.~Zhang, Q.~Tian, M.~Wang, Swin-unet:
+  Unet-like pure transformer for medical image segmentation, arXiv preprint
+  arXiv:2105.05537.
+
+\bibitem{2018MobileNetV2}
+M.~Sandler, A.~Howard, M.~Zhu, A.~Zhmoginov, L.~C. Chen, Mobilenetv2: Inverted
+  residuals and linear bottlenecks, in: IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition, 2018, pp. 4510--4520.
+
+\bibitem{2015Adam}
+D.~Kingma, J.~Ba, Adam: A method for stochastic optimization, arXiv preprint
+  arXiv:1412.6980,2014.
+
+\bibitem{2016V}
+F.~Milletari, N.~Navab, S.-A. Ahmadi, V-net: Fully convolutional neural
+  networks for volumetric medical image segmentation, in: IEEE International
+  Conference on 3D Vision, 2016, pp. 565--571.
+
+\bibitem{2017Focal}
+T.~Y. Lin, P.~Goyal, R.~Girshick, K.~He, P.~Dollár, Focal loss for dense
+  object detection, IEEE Transactions on Pattern Analysis and Machine
+  Intelligence 42~(2) (2020) 318--327.
+
+\end{thebibliography}

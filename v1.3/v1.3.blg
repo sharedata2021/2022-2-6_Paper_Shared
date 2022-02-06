@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: v1.3.aux
+The style file: elsarticle-num.bst
+Database file #1: mybibfile.bib
+Warning--empty author in Kaggle
+Warning--empty journal in Kaggle
+You've used 52 entries,
+            2937 wiz_defined-function locations,
+            961 strings with 15622 characters,
+and the built_in function-call counts, 19536 in all, are:
+= -- 1766
+> -- 823
+< -- 20
++ -- 309
+- -- 257
+* -- 1361
+:= -- 2608
+add.period$ -- 52
+call.type$ -- 52
+change.case$ -- 55
+chr.to.int$ -- 0
+cite$ -- 54
+duplicate$ -- 648
+empty$ -- 2074
+format.name$ -- 308
+if$ -- 5011
+int.to.chr$ -- 0
+int.to.str$ -- 52
+missing$ -- 52
+newline$ -- 164
+num.names$ -- 51
+pop$ -- 371
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1261
+stack$ -- 0
+substring$ -- 1315
+swap$ -- 207
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 150
+width$ -- 54
+write$ -- 438
+(There were 2 warnings)
